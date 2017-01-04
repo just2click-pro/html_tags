@@ -32,4 +32,4 @@ This is the a basic page to show **HTML Tags**
 
 ### Project Page
 
-[hello_world](https://just2netcraft.github.io/hello_world/)
+[html_tags](https://just2netcraft.github.io/html_tags/)
